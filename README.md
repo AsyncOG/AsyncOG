@@ -35,8 +35,6 @@ I develop private tools for penetration testing, focusing on automation, exploit
 
 ## 📫 Connect With Me
 - GitHub: [@AsyncOG](https://github.com/AsyncOG)
-- Twitter: [@YourHandle](https://twitter.com/YourHandle)
-- LinkedIn: [Your Profile](https://linkedin.com/in/YourProfile)
 
 ---
 ⚠️ **Disclaimer:** The tools and scripts I develop are intended for ethical and educational purposes only. Unauthorized or malicious use is strictly prohibited. Always obtain proper authorization before conducting security assessments.
