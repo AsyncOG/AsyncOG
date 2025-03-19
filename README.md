@@ -18,17 +18,13 @@ I am a cybersecurity enthusiast with a passion for ethical hacking and penetrati
 - Automation & Scripting (Python, Bash, PowerShell)
 
 ## 📊 GitHub Stats
-![AsyncOG's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AsyncOG&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
+![AsyncOG's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AsyncOG&show_icons=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AsyncOG&layout=compact&theme=dark)
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AsyncOG&theme=darkhub)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AsyncOG&theme=dark)
-
-![GitHub Metrics](https://metrics.lecoq.io/AsyncOG)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AsyncOG&theme=github-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AsyncOG&theme=github-dark&area=true)
 
 ## 🚀 Projects & Contributions
 I develop private tools for penetration testing, focusing on automation, exploitation, and reconnaissance. While most of my work remains private, I actively contribute to the cybersecurity community by sharing insights, methodologies, and secure coding practices.
